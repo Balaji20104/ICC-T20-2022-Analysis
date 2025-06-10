@@ -37,4 +37,15 @@ This project aims to:
 ---
 
 ## 📁 Project Structure
-
+📦 ICC-T20-2022-Analysis
+┣ 📂 data
+┃ ┗ 📄 MensT20wcdata.csv
+┣ 📂 visuals
+┃ ┣ 📄 plot_1.png
+┃ ┣ 📄 plot_2.png
+┃ ┣ 📄 plot_3.png
+┃ ┣ 📄 plot_4.png
+┃ ┗ 📄 plot_5.png
+┣ 📄 ICC_T20_2022_Analysis.ipynb
+┣ 📄 README.md
+┗ 📄 .gitignore
